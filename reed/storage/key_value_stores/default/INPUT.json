@@ -1,0 +1,10 @@
+{
+	"start_urls": [
+		{
+			"url": "https://www.reed.co.uk/jobs"
+		}
+	],
+	"proxy_configuration": {
+		"useApifyProxy": true
+	}
+}
